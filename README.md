@@ -178,7 +178,7 @@ This document explains, step by step, how to set up Claude Code using:
     <div class="glass-box">
 
       <!-- profile image (uses GitHub username .png endpoint) -->
-      <img class="profile-img" src="https://github.com/samade747.png" alt="Samad Profile">
+      <img class="profile-img" src="https://github.com/.png" alt="Samad Profile">
 
       <!-- name -->
       <div class="name-glow">Samad</div>
