@@ -1231,15 +1231,6 @@ ccr code
 
 ---
 
-## 17) Next steps & optional extras
-
-If you want, I can:
-
-- Produce a **single downloadable CLOUDE.md** file (I can place it in the canvas or produce a ZIP). ✅ (I will deliver now if you want)
-- Create a **`.env.example` + .gitignore`** and a secure team secrets guide
-- Generate a **pre-commit hook** to detect accidental API key leaks
-- Provide a **PowerShell script** to install everything automatically (interactive)
-
 ---
 
 ### End — Windows Beginner Friendly CLOUDE.md
