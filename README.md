@@ -3,9 +3,8 @@ Claude Code Setup with Qwen (Alibaba)  + Gemini (Google)  Windows &amp; Linux â€
 
 
 
-# CLOUDE.md
-Claude Code Setup with Gemini (Google) + Qwen (Alibaba)
-Windows & Linux â€” Complete Beginner Guide
+
+
 
 This document explains, step by step, how to set up Claude Code using:
 - Google Gemini models
