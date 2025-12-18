@@ -1244,7 +1244,7 @@ If you want, I can:
 
 ### End — Windows Beginner Friendly CLOUDE.md
 
-Save this file as `CLOUDE.md` and follow the Windows sections. If you want a separate Linux/macOS version or a downloadable ZIP with config files included, tell me and I will create it.
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samade747&style=flat-square)
