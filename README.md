@@ -16,7 +16,7 @@ You can use Gemini only, Qwen only, or BOTH together.
 
 ![GitHub Followers](https://img.shields.io/github/followers/samade747?label=Followers&style=social)  
 
-![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=soc
+![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=social)
 
 ==================================================
 TABLE OF CONTENTS
@@ -305,7 +305,7 @@ END OF FILE
 
 ![GitHub Followers](https://img.shields.io/github/followers/samade747?label=Followers&style=social)  
 
-![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=soc
+![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=social)
 
 ## 📬 **Let's Connect!**  
 
@@ -544,7 +544,7 @@ Just say **YES + option number** 💪
 
 ![GitHub Followers](https://img.shields.io/github/followers/samade747?label=Followers&style=social)  
 
-![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=soc
+![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=social)
 
 ## 📬 **Let's Connect!**  
 
@@ -1048,7 +1048,7 @@ Save this file as `CLOUDE.md` and follow the Windows sections. If you want a sep
 
 ![GitHub Followers](https://img.shields.io/github/followers/samade747?label=Followers&style=social)  
 
-![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=soc
+![GitHub Stars](https://img.shields.io/github/stars/samade747?label=Stars&style=social)
 
 ## 📬 **Let's Connect!**  
 
